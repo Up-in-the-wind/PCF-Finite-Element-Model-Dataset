@@ -14,4 +14,4 @@ In the PCF finite element model dataset, each model consists of six loading step
 # Citation
 &ensp;&ensp;&ensp;&ensp;If you find this dataset helpful, please consider citing:
 
-**Gao, S., Chen, C., Jiang, X., Zhu, S., Cai, H., Li, W., 2024. Transformer-based settlement prediction model of pile composite foundation under embankment loading. Computers and Geotechnics, 176, 106783. https://doi.org/10.1016/j.compgeo.2024.106783.**
+&ensp;&ensp;&ensp;&ensp;**Gao, S., Chen, C., Jiang, X., Zhu, S., Cai, H., Li, W., 2024. Transformer-based settlement prediction model of pile composite foundation under embankment loading. Computers and Geotechnics, 176, 106783. https://doi.org/10.1016/j.compgeo.2024.106783.**
